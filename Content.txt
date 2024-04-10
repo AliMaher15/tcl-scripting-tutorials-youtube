@@ -1,0 +1,6 @@
+introduction
+basics (arrays, lists, strings, hashes, loops)
+functions (procs)
+file handling (reading / writing)
+parttern matching
+real world related tasks in tcl

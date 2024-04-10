@@ -1,0 +1,28 @@
+
+string compare str1 str2 =>
+-1
+1
+0
+string index str idx =>
+n
+string length str =>
+11
+string range str idx1 idx2 =>
+am studying
+string tolower str =>
+vlsi design
+string toupper str =>
+VLSI DESIGN
+Trim right: "Pvt Ltd" in "VLSI Academy India Pvt Ltd"
+new string: "VLSI Academy India"
+Trim left: "Physical" in "Physical Design includes stages from floorplan to routing"
+new string: " Design includes stages from floorplan to routing"
+Trim on both sides: ":" in ":::Physical Design:::"
+new string: "Physical Design"
+Matching pattern *@*.com in test-id@goldenLightVLSI.com
+match found
+Matching pattern "tcl" in test-id@goldenLightVLSI.com
+match not found
+append original_str appending_str
+we love to study tcl by VLSI Academy
+
